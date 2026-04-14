@@ -1,0 +1,19 @@
+{
+  "name": "obsidian",
+  "version": "1.0.1",
+  "description": "Manage a second-brain research vault in Obsidian. Read and annotate papers, create and merge research projects, maintain MOCs, and keep vault structure consistent.",
+  "author": {
+    "name": "Dominik Hintersdorf",
+    "url": "https://d0mih.github.io"
+  },
+  "repository": "https://github.com/d0mih/obsidian-second-brain-research-skills",
+  "license": "MIT",
+  "keywords": [
+    "obsidian",
+    "research",
+    "second-brain",
+    "vault",
+    "mocs",
+    "annotations"
+  ]
+}

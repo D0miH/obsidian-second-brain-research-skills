@@ -1,0 +1,15 @@
+{
+  "name": "obsidian-second-brain-research-skills",
+  "owner": {
+    "name": "Dominik Hintersdorf",
+    "url": "https://d0mih.github.io"
+  },
+  "plugins": [
+    {
+      "name": "obsidian-second-brain-research-skills",
+      "source": "./",
+      "description": "Claude Research Skills for Obsidian",
+      "version": "1.0"
+    }
+  ]
+}
