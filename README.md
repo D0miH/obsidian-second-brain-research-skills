@@ -41,6 +41,7 @@ OpenCode auto-discovers all `SKILL.md` files under `~/.opencode/skills/`. No cha
 | [ask_paper](skills/ask_paper) | Answer questions about a paper in the vault, using note first and arXiv HTML as fallback |
 | [read_paper](skills/read_paper) | Convert a research paper into structured Obsidian notes and link research projects |
 | [create_project](skills/create_project) | Create atomic research project notes with minimal overhead |
+| [create_proposal](skills/create_proposal) | Create research proposal notes with proper linking and structure |
 | [merge_projects](skills/merge_projects) | Identify overlapping projects and merge them into consolidated notes |
 | [update_moc](skills/update_moc) | Manage research area hubs (MOCs) with lean, project-focused organization |
 | [update_vault_index](skills/update_vault_index) | Keep `vault_index.md` synchronized with current vault structure |
